@@ -1,4 +1,5 @@
 # Finance Based Sentiment Analysis
+           visit README.pdf for result and full description
 
 #### ●  Predict the sentiment in the financial news. Classification outputs a class from the set of
 
