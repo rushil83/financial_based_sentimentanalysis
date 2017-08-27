@@ -30,9 +30,6 @@ for positive
 ○ 0.55-0.75 (-ve swing) Negative Class
 ○ 0.75- 1.0 (-ve swing) Very Negative Class
 ```
-## Challenge
-
-Submission of technical assignment for the Internship Position at Crediwatch.
 
 
 ### Datasets
