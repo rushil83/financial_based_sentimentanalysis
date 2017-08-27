@@ -1,14 +1,14 @@
 # Finance Based Sentiment Analysis
 
-#### Predict the sentiment in the financial news. Classification outputs a class from the set of
+#### ●  Predict the sentiment in the financial news. Classification outputs a class from the set of
 
-#### 5 classes. Classes: (‘very positive’,’positive’,’neutral’,’negative’,’very negative’) and 2
+#### ● 5 classes. Classes: (‘very positive’,’positive’,’neutral’,’negative’,’very negative’) and 2
 
-#### swing class (positive swing or negative swing)
+#### ● swing class (positive swing or negative swing)
 
-#### Most accurate with Financial Headlines as articles contains past or future reference of
+#### ● Most accurate with Financial Headlines as articles contains past or future reference of
 
-#### our subject hence confusing the model about present situation.
+#### ● our subject hence confusing the model about present situation.
 
 ## Dependencies
 
