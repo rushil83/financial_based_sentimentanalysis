@@ -1,5 +1,7 @@
 # Financial Based Sentiment Analysis
 
+![](http://s2.quickmeme.com/img/22/221bf4d77e7d948c994b933588bcfaf5ea7df787bc0cdc2472674c665db29cc5.jpg)
+### though its financial one !!
 
 - Predict the sentiment in the financial news. Classification outputs a class from the set of 5 classes. Classes: (‘very positive’,’positive’,’neutral’,’negative’,’very negative’) and 2 swing class (positive swing or negative swing)
 
